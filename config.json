@@ -1,0 +1,8 @@
+{
+  "response_probability": 0.15,
+  "min_delay": 1,
+  "max_delay": 6,
+  "context_window": 150,
+  "monitored_channels": [],
+  "model": "nemotron-3-super:cloud"
+}
